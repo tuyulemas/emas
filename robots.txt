@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tuyulemas.github.io/emas/sitemap.xml
